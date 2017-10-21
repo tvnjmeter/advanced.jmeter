@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="bolt.dropbox.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="847" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT bolt.dropbox.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="bolt.dropbox.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="847" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT bolt.dropbox.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="bolt.dropbox.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="847" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT bolt.dropbox.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="bolt.dropbox.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="847" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT bolt.dropbox.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="bolt.dropbox.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="847" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT bolt.dropbox.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="bolt.dropbox.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="847" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT bolt.dropbox.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="block-edge.dropbox.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="847" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT block-edge.dropbox.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="block-edge.dropbox.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="847" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT block-edge.dropbox.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="bolt.dropbox.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="847" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT bolt.dropbox.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="block-edge.dropbox.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="847" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT block-edge.dropbox.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="block-edge.dropbox.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="847" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT block-edge.dropbox.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="bolt.dropbox.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="847" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT bolt.dropbox.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="block.dropbox.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="847" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT block.dropbox.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="block.dropbox.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="847" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT block.dropbox.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="block.dropbox.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="847" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT block.dropbox.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="block.dropbox.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="847" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT block.dropbox.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="bolt.dropbox.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="847" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT bolt.dropbox.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="1815" it="0" lt="1814" ct="1469" ts="1508077666690" s="false" lb="1 /EWS/Exchange.asmx" rc="500" rm="Internal Server Error" tn="" dt="text" de="utf-8" by="1411" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String">HTTP/1.1 500 Internal Server Error
+Cache-Control: private
+Content-Length: 713
+Content-Type: text/xml; charset=utf-8
+Server: Microsoft-IIS/8.5
+request-id: 4e8b2a82-bcd2-4f7d-a83b-7bc280cc63b1
+X-CalculatedFETarget: KL1PR06CU001.internal.outlook.com
+X-BackEndHttpStatus: 500
+Set-Cookie: exchangecookie=c8de49a2fa164373a70fc8e86994615e; path=/
+X-FEProxyInfo: KL1PR06CA0013.APCPRD06.PROD.OUTLOOK.COM
+X-CalculatedBETarget: KL1PR01MB0968.apcprd01.prod.exchangelabs.com
+X-BackEndHttpStatus: 500
+X-AspNet-Version: 4.0.30319
+X-DiagInfo: KL1PR01MB0968
+X-BEServer: KL1PR01MB0968
+X-FEServer: KL1PR06CA0013
+X-Powered-By: ASP.NET
+X-FEServer: HK2PR02CA0222
+Date: Sun, 15 Oct 2017 14:27:47 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: keep-alive
+SOAPAction: &quot;http://schemas.microsoft.com/exchange/services/2006/messages/GetAppMarketplaceUrl&quot;
+Accept-Language: en
+X-User-Identity: vu.trantuan@lazada.com
+X-ClientStatistics: DeviceID=10FEA6CE-C4D3-57C6-B0E3-A0705A425933; SessionID=745C81D6-8E3D-49AC-8FD6-8B2C69117DAD
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6IjJLVmN1enFBaWRPTHFXU2FvbDd3Z0ZSR0NZbyIsImtpZCI6IjJLVmN1enFBaWRPTHFXU2FvbDd3Z0ZSR0NZbyJ9.eyJhdWQiOiJodHRwczovL291dGxvb2sub2ZmaWNlMzY1LmNvbS8iLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC8zNjNhMjM1NC1mNzcwLTRjNmUtOWJlZC1hNWY4MmYxM2Q5MDkvIiwiaWF0IjoxNTA4MDc3MTEzLCJuYmYiOjE1MDgwNzcxMTMsImV4cCI6MTUwODA4MTAxMywiYWNyIjoiMSIsImFpbyI6IkFUUUF5LzhGQUFBQTZWYlkrU1M5V3ZDQi9IcmxKT09CN1JrNUdUOWkzMjl4S1ROQndmL05FUmtSUllRMnI0QitBYy9ZT1IzbTBXTEUiLCJhbXIiOlsicHdkIiwibWZhIl0sImFwcGlkIjoiZDM1OTBlZDYtNTJiMy00MTAyLWFlZmYtYWFkMjI5MmFiMDFjIiwiYXBwaWRhY3IiOiIwIiwiZV9leHAiOjI2MjgwMCwiZW5mcG9saWRzIjpbXSwiZmFtaWx5X25hbWUiOiJUcmFuIiwiZ2l2ZW5fbmFtZSI6IlZ1IiwiaXBhZGRyIjoiNDIuMTEzLjE4OC4yNiIsIm5hbWUiOiJUcmFuIFR1YW4gVnUgKExhemFkYSBHcm91cCkiLCJvaWQiOiI1NDE3MmYyZS1hODI4LTRmNTAtYTc3Zi1kMjliNDU4NWRiZmIiLCJvbnByZW1fc2lkIjoiUy0xLTUtMjEtMjI5OTUxNTQxMi03NDU3MzgwMzUtMzQxNzM0Njg4Ni0xNzExMiIsInB1aWQiOiIxMDAzN0ZGRTk3NzlBNEVBIiwic2NwIjoiQ2FsZW5kYXJzLlJlYWRXcml0ZSBDb250YWN0cy5SZWFkV3JpdGUgRmlsZXMuUmVhZFdyaXRlLkFsbCBHcm91cC5SZWFkV3JpdGUuQWxsIE1haWwuUmVhZFdyaXRlIE1haWwuU2VuZCBQcml2aWxlZ2UuRUxUIFNpZ25hbHMuUmVhZCBTaWduYWxzLlJlYWRXcml0ZSBUYWdzLlJlYWRXcml0ZSB1c2VyX2ltcGVyc29uYXRpb24iLCJzdWIiOiJwak1iOTNGemZ2bHhjZzFQazhiOVBQbTZXMm51b3VlMVNqN2VZT0JCMmtZIiwidGlkIjoiMzYzYTIzNTQtZjc3MC00YzZlLTliZWQtYTVmODJmMTNkOTA5IiwidW5pcXVlX25hbWUiOiJ2dS50cmFudHVhbkBsYXphZGEuY29tIiwidXBuIjoidnUudHJhbnR1YW5AbGF6YWRhLmNvbSIsInZlciI6IjEuMCJ9.j-TN1I9RsBHVaMRL39Hpuo0BVmrAFwiy_EaQf6caYzSLSmv_Qy3DMI2Yv7PPIhTaxmqjHDCxpo63iaOIMpdna5mTZrwkQsYqfGsfNvuGWUCuQ9Br8ZvHue-pC7woc2a2Z7RBjOMNMSnzur9-cvODaG7JhOvQAZAhJaAKMhTc6by_g3qUneCvRAS6RET3HjAKotjaQ336_1RivRdatUneNgWn3KlmxcCszBWF-ZXzr8x6Azv7Zm0JDaG_Zjrq8HACBe3OgSizHX3S00DEVg2aFozrhD-eFsUxLHFmXnjfWDeOBtLkyroGEap08Lr7ATIARtXEwdWBSzi1MeViMZSeHg
+X-EWS-TargetVersion: 2.6
+Client-Request-Id: {DC72CA5A-427E-45B5-AB27-A8736AC7A335}
+Content-Type: text/xml; charset=utf-8
+User-Agent: MacOutlook/15.32.0.170309 (Intelx64 Mac OS X Version 10.12.5 (Build 16F73))
+Content-Length: 646
+Host: outlook.office365.com
+</requestHeader>
+  <responseData class="java.lang.String">&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&lt;s:Envelope xmlns:s=&quot;http://schemas.xmlsoap.org/soap/envelope/&quot;&gt;&lt;s:Body&gt;&lt;s:Fault&gt;&lt;faultcode xmlns:a=&quot;http://schemas.microsoft.com/exchange/services/2006/types&quot;&gt;a:ErrorAccessDenied&lt;/faultcode&gt;&lt;faultstring xml:lang=&quot;en-US&quot;&gt;The caller has not assigned any of the RBAC roles requested in the management role header.&lt;/faultstring&gt;&lt;detail&gt;&lt;e:ResponseCode xmlns:e=&quot;http://schemas.microsoft.com/exchange/services/2006/errors&quot;&gt;ErrorAccessDenied&lt;/e:ResponseCode&gt;&lt;e:Message xmlns:e=&quot;http://schemas.microsoft.com/exchange/services/2006/errors&quot;&gt;The caller has not assigned any of the RBAC roles requested in the management role header.&lt;/e:Message&gt;&lt;/detail&gt;&lt;/s:Fault&gt;&lt;/s:Body&gt;&lt;/s:Envelope&gt;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;soap:Envelope xmlns:soap=&quot;http://schemas.xmlsoap.org/soap/envelope/&quot; xmlns:t=&quot;http://schemas.microsoft.com/exchange/services/2006/types&quot; xmlns:m=&quot;http://schemas.microsoft.com/exchange/services/2006/messages&quot;&gt;&lt;soap:Header&gt;&lt;t:RequestServerVersion Version=&quot;Exchange2013&quot; /&gt;&lt;t:MailboxCulture&gt;en-US&lt;/t:MailboxCulture&gt;&lt;t:TimeZoneContext&gt;&lt;t:TimeZoneDefinition Id=&quot;Tomsk Standard Time&quot;/&gt;&lt;/t:TimeZoneContext&gt;&lt;/soap:Header&gt;&lt;soap:Body&gt;&lt;m:GetAppMarketplaceUrl&gt;&lt;m:ApiVersionSupported&gt;1.3&lt;/m:ApiVersionSupported&gt;&lt;m:SchemaVersionSupported&gt;1.1&lt;/m:SchemaVersionSupported&gt;&lt;/m:GetAppMarketplaceUrl&gt;&lt;/soap:Body&gt;&lt;/soap:Envelope&gt;</queryString>
+  <java.net.URL>https://outlook.office365.com/EWS/Exchange.asmx</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="block.dropbox.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="847" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT block.dropbox.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="block.dropbox.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="847" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT block.dropbox.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="block.dropbox.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="847" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT block.dropbox.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="block.dropbox.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="847" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT block.dropbox.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="bolt.dropbox.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="847" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT bolt.dropbox.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="bolt.dropbox.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="847" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT bolt.dropbox.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="block.dropbox.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="847" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT block.dropbox.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="block.dropbox.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="847" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT block.dropbox.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="block.dropbox.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="847" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT block.dropbox.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="block.dropbox.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="847" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT block.dropbox.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="bolt.dropbox.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="847" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT bolt.dropbox.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="bolt.dropbox.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="847" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT bolt.dropbox.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="676" it="0" lt="676" ct="515" ts="1508077730941" s="false" lb="[2 /EWS/Exchange.asmx]" rc="500" rm="Internal Server Error" tn="" dt="text" de="utf-8" by="1414" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String">HTTP/1.1 500 Internal Server Error
+Cache-Control: private
+Content-Length: 713
+Content-Type: text/xml; charset=utf-8
+Server: Microsoft-IIS/10.0
+request-id: 62314a4f-67c3-4486-ab9b-bad331a7b629
+X-CalculatedFETarget: KL1PR06CU001.internal.outlook.com
+X-BackEndHttpStatus: 500
+Set-Cookie: exchangecookie=c8de49a2fa164373a70fc8e86994615e; path=/
+X-FEProxyInfo: KL1PR06CA0003.APCPRD06.PROD.OUTLOOK.COM
+X-CalculatedBETarget: KL1PR01MB0968.apcprd01.prod.exchangelabs.com
+X-BackEndHttpStatus: 500
+X-AspNet-Version: 4.0.30319
+X-DiagInfo: KL1PR01MB0968
+X-BEServer: KL1PR01MB0968
+X-FEServer: KL1PR06CA0003
+X-Powered-By: ASP.NET
+X-FEServer: HK2PR0401CA0008
+Date: Sun, 15 Oct 2017 14:28:51 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: keep-alive
+SOAPAction: &quot;http://schemas.microsoft.com/exchange/services/2006/messages/GetAppMarketplaceUrl&quot;
+Accept-Language: en
+X-User-Identity: vu.trantuan@lazada.com
+X-ClientStatistics: DeviceID=10FEA6CE-C4D3-57C6-B0E3-A0705A425933; SessionID=745C81D6-8E3D-49AC-8FD6-8B2C69117DAD
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6IjJLVmN1enFBaWRPTHFXU2FvbDd3Z0ZSR0NZbyIsImtpZCI6IjJLVmN1enFBaWRPTHFXU2FvbDd3Z0ZSR0NZbyJ9.eyJhdWQiOiJodHRwczovL291dGxvb2sub2ZmaWNlMzY1LmNvbS8iLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC8zNjNhMjM1NC1mNzcwLTRjNmUtOWJlZC1hNWY4MmYxM2Q5MDkvIiwiaWF0IjoxNTA4MDc3MTEzLCJuYmYiOjE1MDgwNzcxMTMsImV4cCI6MTUwODA4MTAxMywiYWNyIjoiMSIsImFpbyI6IkFUUUF5LzhGQUFBQTZWYlkrU1M5V3ZDQi9IcmxKT09CN1JrNUdUOWkzMjl4S1ROQndmL05FUmtSUllRMnI0QitBYy9ZT1IzbTBXTEUiLCJhbXIiOlsicHdkIiwibWZhIl0sImFwcGlkIjoiZDM1OTBlZDYtNTJiMy00MTAyLWFlZmYtYWFkMjI5MmFiMDFjIiwiYXBwaWRhY3IiOiIwIiwiZV9leHAiOjI2MjgwMCwiZW5mcG9saWRzIjpbXSwiZmFtaWx5X25hbWUiOiJUcmFuIiwiZ2l2ZW5fbmFtZSI6IlZ1IiwiaXBhZGRyIjoiNDIuMTEzLjE4OC4yNiIsIm5hbWUiOiJUcmFuIFR1YW4gVnUgKExhemFkYSBHcm91cCkiLCJvaWQiOiI1NDE3MmYyZS1hODI4LTRmNTAtYTc3Zi1kMjliNDU4NWRiZmIiLCJvbnByZW1fc2lkIjoiUy0xLTUtMjEtMjI5OTUxNTQxMi03NDU3MzgwMzUtMzQxNzM0Njg4Ni0xNzExMiIsInB1aWQiOiIxMDAzN0ZGRTk3NzlBNEVBIiwic2NwIjoiQ2FsZW5kYXJzLlJlYWRXcml0ZSBDb250YWN0cy5SZWFkV3JpdGUgRmlsZXMuUmVhZFdyaXRlLkFsbCBHcm91cC5SZWFkV3JpdGUuQWxsIE1haWwuUmVhZFdyaXRlIE1haWwuU2VuZCBQcml2aWxlZ2UuRUxUIFNpZ25hbHMuUmVhZCBTaWduYWxzLlJlYWRXcml0ZSBUYWdzLlJlYWRXcml0ZSB1c2VyX2ltcGVyc29uYXRpb24iLCJzdWIiOiJwak1iOTNGemZ2bHhjZzFQazhiOVBQbTZXMm51b3VlMVNqN2VZT0JCMmtZIiwidGlkIjoiMzYzYTIzNTQtZjc3MC00YzZlLTliZWQtYTVmODJmMTNkOTA5IiwidW5pcXVlX25hbWUiOiJ2dS50cmFudHVhbkBsYXphZGEuY29tIiwidXBuIjoidnUudHJhbnR1YW5AbGF6YWRhLmNvbSIsInZlciI6IjEuMCJ9.j-TN1I9RsBHVaMRL39Hpuo0BVmrAFwiy_EaQf6caYzSLSmv_Qy3DMI2Yv7PPIhTaxmqjHDCxpo63iaOIMpdna5mTZrwkQsYqfGsfNvuGWUCuQ9Br8ZvHue-pC7woc2a2Z7RBjOMNMSnzur9-cvODaG7JhOvQAZAhJaAKMhTc6by_g3qUneCvRAS6RET3HjAKotjaQ336_1RivRdatUneNgWn3KlmxcCszBWF-ZXzr8x6Azv7Zm0JDaG_Zjrq8HACBe3OgSizHX3S00DEVg2aFozrhD-eFsUxLHFmXnjfWDeOBtLkyroGEap08Lr7ATIARtXEwdWBSzi1MeViMZSeHg
+X-EWS-TargetVersion: 2.6
+Client-Request-Id: {77DC4E1A-8D3E-4C31-8E3D-A0E90539CD3B}
+Content-Type: text/xml; charset=utf-8
+User-Agent: MacOutlook/15.32.0.170309 (Intelx64 Mac OS X Version 10.12.5 (Build 16F73))
+Content-Length: 646
+Host: outlook.office365.com
+</requestHeader>
+  <responseData class="java.lang.String">&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&lt;s:Envelope xmlns:s=&quot;http://schemas.xmlsoap.org/soap/envelope/&quot;&gt;&lt;s:Body&gt;&lt;s:Fault&gt;&lt;faultcode xmlns:a=&quot;http://schemas.microsoft.com/exchange/services/2006/types&quot;&gt;a:ErrorAccessDenied&lt;/faultcode&gt;&lt;faultstring xml:lang=&quot;en-US&quot;&gt;The caller has not assigned any of the RBAC roles requested in the management role header.&lt;/faultstring&gt;&lt;detail&gt;&lt;e:ResponseCode xmlns:e=&quot;http://schemas.microsoft.com/exchange/services/2006/errors&quot;&gt;ErrorAccessDenied&lt;/e:ResponseCode&gt;&lt;e:Message xmlns:e=&quot;http://schemas.microsoft.com/exchange/services/2006/errors&quot;&gt;The caller has not assigned any of the RBAC roles requested in the management role header.&lt;/e:Message&gt;&lt;/detail&gt;&lt;/s:Fault&gt;&lt;/s:Body&gt;&lt;/s:Envelope&gt;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;soap:Envelope xmlns:soap=&quot;http://schemas.xmlsoap.org/soap/envelope/&quot; xmlns:t=&quot;http://schemas.microsoft.com/exchange/services/2006/types&quot; xmlns:m=&quot;http://schemas.microsoft.com/exchange/services/2006/messages&quot;&gt;&lt;soap:Header&gt;&lt;t:RequestServerVersion Version=&quot;Exchange2013&quot; /&gt;&lt;t:MailboxCulture&gt;en-US&lt;/t:MailboxCulture&gt;&lt;t:TimeZoneContext&gt;&lt;t:TimeZoneDefinition Id=&quot;Tomsk Standard Time&quot;/&gt;&lt;/t:TimeZoneContext&gt;&lt;/soap:Header&gt;&lt;soap:Body&gt;&lt;m:GetAppMarketplaceUrl&gt;&lt;m:ApiVersionSupported&gt;1.3&lt;/m:ApiVersionSupported&gt;&lt;m:SchemaVersionSupported&gt;1.1&lt;/m:SchemaVersionSupported&gt;&lt;/m:GetAppMarketplaceUrl&gt;&lt;/soap:Body&gt;&lt;/soap:Envelope&gt;</queryString>
+  <java.net.URL>https://outlook.office365.com/EWS/Exchange.asmx</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="bolt.dropbox.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="847" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT bolt.dropbox.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="block.dropbox.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="847" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT block.dropbox.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="block.dropbox.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="847" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT block.dropbox.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="block.dropbox.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="847" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT block.dropbox.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="block.dropbox.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="847" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT block.dropbox.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="1915" it="0" lt="1915" ct="412" ts="1508077792830" s="false" lb="[3 /EWS/Exchange.asmx]" rc="500" rm="Internal Server Error" tn="" dt="text" de="utf-8" by="1411" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String">HTTP/1.1 500 Internal Server Error
+Cache-Control: private
+Content-Length: 713
+Content-Type: text/xml; charset=utf-8
+Server: Microsoft-IIS/8.5
+request-id: 16df6c0e-5591-4f97-b4f6-cec1152d2cec
+X-CalculatedFETarget: KL1PR06CU001.internal.outlook.com
+X-BackEndHttpStatus: 500
+Set-Cookie: exchangecookie=c8de49a2fa164373a70fc8e86994615e; path=/
+X-FEProxyInfo: KL1PR06CA0014.APCPRD06.PROD.OUTLOOK.COM
+X-CalculatedBETarget: KL1PR01MB0968.apcprd01.prod.exchangelabs.com
+X-BackEndHttpStatus: 500
+X-AspNet-Version: 4.0.30319
+X-DiagInfo: KL1PR01MB0968
+X-BEServer: KL1PR01MB0968
+X-FEServer: KL1PR06CA0014
+X-Powered-By: ASP.NET
+X-FEServer: HK2PR02CA0183
+Date: Sun, 15 Oct 2017 14:29:52 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: keep-alive
+SOAPAction: &quot;http://schemas.microsoft.com/exchange/services/2006/messages/GetAppMarketplaceUrl&quot;
+Accept-Language: en
+X-User-Identity: vu.trantuan@lazada.com
+X-ClientStatistics: DeviceID=10FEA6CE-C4D3-57C6-B0E3-A0705A425933; SessionID=745C81D6-8E3D-49AC-8FD6-8B2C69117DAD
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6IjJLVmN1enFBaWRPTHFXU2FvbDd3Z0ZSR0NZbyIsImtpZCI6IjJLVmN1enFBaWRPTHFXU2FvbDd3Z0ZSR0NZbyJ9.eyJhdWQiOiJodHRwczovL291dGxvb2sub2ZmaWNlMzY1LmNvbS8iLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC8zNjNhMjM1NC1mNzcwLTRjNmUtOWJlZC1hNWY4MmYxM2Q5MDkvIiwiaWF0IjoxNTA4MDc3MTEzLCJuYmYiOjE1MDgwNzcxMTMsImV4cCI6MTUwODA4MTAxMywiYWNyIjoiMSIsImFpbyI6IkFUUUF5LzhGQUFBQTZWYlkrU1M5V3ZDQi9IcmxKT09CN1JrNUdUOWkzMjl4S1ROQndmL05FUmtSUllRMnI0QitBYy9ZT1IzbTBXTEUiLCJhbXIiOlsicHdkIiwibWZhIl0sImFwcGlkIjoiZDM1OTBlZDYtNTJiMy00MTAyLWFlZmYtYWFkMjI5MmFiMDFjIiwiYXBwaWRhY3IiOiIwIiwiZV9leHAiOjI2MjgwMCwiZW5mcG9saWRzIjpbXSwiZmFtaWx5X25hbWUiOiJUcmFuIiwiZ2l2ZW5fbmFtZSI6IlZ1IiwiaXBhZGRyIjoiNDIuMTEzLjE4OC4yNiIsIm5hbWUiOiJUcmFuIFR1YW4gVnUgKExhemFkYSBHcm91cCkiLCJvaWQiOiI1NDE3MmYyZS1hODI4LTRmNTAtYTc3Zi1kMjliNDU4NWRiZmIiLCJvbnByZW1fc2lkIjoiUy0xLTUtMjEtMjI5OTUxNTQxMi03NDU3MzgwMzUtMzQxNzM0Njg4Ni0xNzExMiIsInB1aWQiOiIxMDAzN0ZGRTk3NzlBNEVBIiwic2NwIjoiQ2FsZW5kYXJzLlJlYWRXcml0ZSBDb250YWN0cy5SZWFkV3JpdGUgRmlsZXMuUmVhZFdyaXRlLkFsbCBHcm91cC5SZWFkV3JpdGUuQWxsIE1haWwuUmVhZFdyaXRlIE1haWwuU2VuZCBQcml2aWxlZ2UuRUxUIFNpZ25hbHMuUmVhZCBTaWduYWxzLlJlYWRXcml0ZSBUYWdzLlJlYWRXcml0ZSB1c2VyX2ltcGVyc29uYXRpb24iLCJzdWIiOiJwak1iOTNGemZ2bHhjZzFQazhiOVBQbTZXMm51b3VlMVNqN2VZT0JCMmtZIiwidGlkIjoiMzYzYTIzNTQtZjc3MC00YzZlLTliZWQtYTVmODJmMTNkOTA5IiwidW5pcXVlX25hbWUiOiJ2dS50cmFudHVhbkBsYXphZGEuY29tIiwidXBuIjoidnUudHJhbnR1YW5AbGF6YWRhLmNvbSIsInZlciI6IjEuMCJ9.j-TN1I9RsBHVaMRL39Hpuo0BVmrAFwiy_EaQf6caYzSLSmv_Qy3DMI2Yv7PPIhTaxmqjHDCxpo63iaOIMpdna5mTZrwkQsYqfGsfNvuGWUCuQ9Br8ZvHue-pC7woc2a2Z7RBjOMNMSnzur9-cvODaG7JhOvQAZAhJaAKMhTc6by_g3qUneCvRAS6RET3HjAKotjaQ336_1RivRdatUneNgWn3KlmxcCszBWF-ZXzr8x6Azv7Zm0JDaG_Zjrq8HACBe3OgSizHX3S00DEVg2aFozrhD-eFsUxLHFmXnjfWDeOBtLkyroGEap08Lr7ATIARtXEwdWBSzi1MeViMZSeHg
+X-EWS-TargetVersion: 2.6
+Client-Request-Id: {728A4309-B347-4896-A198-8717FCBAF66A}
+Content-Type: text/xml; charset=utf-8
+User-Agent: MacOutlook/15.32.0.170309 (Intelx64 Mac OS X Version 10.12.5 (Build 16F73))
+Content-Length: 646
+Host: outlook.office365.com
+</requestHeader>
+  <responseData class="java.lang.String">&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&lt;s:Envelope xmlns:s=&quot;http://schemas.xmlsoap.org/soap/envelope/&quot;&gt;&lt;s:Body&gt;&lt;s:Fault&gt;&lt;faultcode xmlns:a=&quot;http://schemas.microsoft.com/exchange/services/2006/types&quot;&gt;a:ErrorAccessDenied&lt;/faultcode&gt;&lt;faultstring xml:lang=&quot;en-US&quot;&gt;The caller has not assigned any of the RBAC roles requested in the management role header.&lt;/faultstring&gt;&lt;detail&gt;&lt;e:ResponseCode xmlns:e=&quot;http://schemas.microsoft.com/exchange/services/2006/errors&quot;&gt;ErrorAccessDenied&lt;/e:ResponseCode&gt;&lt;e:Message xmlns:e=&quot;http://schemas.microsoft.com/exchange/services/2006/errors&quot;&gt;The caller has not assigned any of the RBAC roles requested in the management role header.&lt;/e:Message&gt;&lt;/detail&gt;&lt;/s:Fault&gt;&lt;/s:Body&gt;&lt;/s:Envelope&gt;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;soap:Envelope xmlns:soap=&quot;http://schemas.xmlsoap.org/soap/envelope/&quot; xmlns:t=&quot;http://schemas.microsoft.com/exchange/services/2006/types&quot; xmlns:m=&quot;http://schemas.microsoft.com/exchange/services/2006/messages&quot;&gt;&lt;soap:Header&gt;&lt;t:RequestServerVersion Version=&quot;Exchange2013&quot; /&gt;&lt;t:MailboxCulture&gt;en-US&lt;/t:MailboxCulture&gt;&lt;t:TimeZoneContext&gt;&lt;t:TimeZoneDefinition Id=&quot;Tomsk Standard Time&quot;/&gt;&lt;/t:TimeZoneContext&gt;&lt;/soap:Header&gt;&lt;soap:Body&gt;&lt;m:GetAppMarketplaceUrl&gt;&lt;m:ApiVersionSupported&gt;1.3&lt;/m:ApiVersionSupported&gt;&lt;m:SchemaVersionSupported&gt;1.1&lt;/m:SchemaVersionSupported&gt;&lt;/m:GetAppMarketplaceUrl&gt;&lt;/soap:Body&gt;&lt;/soap:Envelope&gt;</queryString>
+  <java.net.URL>https://outlook.office365.com/EWS/Exchange.asmx</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="bolt.dropbox.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="847" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT bolt.dropbox.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="232" it="0" lt="0" ct="130" ts="1508077819867" s="true" lb="[4 /generate_204]" rc="204" rm="No Content" tn="" dt="" de="" by="83" sc="1" ec="0" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String">HTTP/1.1 204 No Content
+Content-Length: 0
+Date: Sun, 15 Oct 2017 14:30:20 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: keep-alive
+Accept-Language: vi,fr-FR;q=0.8,fr;q=0.6,en-US;q=0.4,en;q=0.2,en-GB;q=0.2,da;q=0.2,ja;q=0.2
+Cache-Control: no-cache
+Pragma: no-cache
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+Host: www.gstatic.com
+</requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://www.gstatic.com/generate_204</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="bolt.dropbox.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="847" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT bolt.dropbox.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="912" it="0" lt="911" ct="637" ts="1508077856488" s="false" lb="[5 /EWS/Exchange.asmx]" rc="500" rm="Internal Server Error" tn="" dt="text" de="utf-8" by="1411" sc="1" ec="1" ng="0" na="0" hn="LAZ-VN-L-M-1189">
+  <responseHeader class="java.lang.String">HTTP/1.1 500 Internal Server Error
+Cache-Control: private
+Content-Length: 713
+Content-Type: text/xml; charset=utf-8
+Server: Microsoft-IIS/8.5
+request-id: 4cdb4053-15a2-4766-aed6-01bbb31516e7
+X-CalculatedFETarget: KL1PR06CU001.internal.outlook.com
+X-BackEndHttpStatus: 500
+Set-Cookie: exchangecookie=c8de49a2fa164373a70fc8e86994615e; path=/
+X-FEProxyInfo: KL1PR06CA0031.APCPRD06.PROD.OUTLOOK.COM
+X-CalculatedBETarget: KL1PR01MB0968.apcprd01.prod.exchangelabs.com
+X-BackEndHttpStatus: 500
+X-AspNet-Version: 4.0.30319
+X-DiagInfo: KL1PR01MB0968
+X-BEServer: KL1PR01MB0968
+X-FEServer: KL1PR06CA0031
+X-Powered-By: ASP.NET
+X-FEServer: HK2PR02CA0202
+Date: Sun, 15 Oct 2017 14:30:57 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: keep-alive
+SOAPAction: &quot;http://schemas.microsoft.com/exchange/services/2006/messages/GetAppMarketplaceUrl&quot;
+Accept-Language: en
+X-User-Identity: vu.trantuan@lazada.com
+X-ClientStatistics: DeviceID=10FEA6CE-C4D3-57C6-B0E3-A0705A425933; SessionID=745C81D6-8E3D-49AC-8FD6-8B2C69117DAD
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6IjJLVmN1enFBaWRPTHFXU2FvbDd3Z0ZSR0NZbyIsImtpZCI6IjJLVmN1enFBaWRPTHFXU2FvbDd3Z0ZSR0NZbyJ9.eyJhdWQiOiJodHRwczovL291dGxvb2sub2ZmaWNlMzY1LmNvbS8iLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC8zNjNhMjM1NC1mNzcwLTRjNmUtOWJlZC1hNWY4MmYxM2Q5MDkvIiwiaWF0IjoxNTA4MDc3MTEzLCJuYmYiOjE1MDgwNzcxMTMsImV4cCI6MTUwODA4MTAxMywiYWNyIjoiMSIsImFpbyI6IkFUUUF5LzhGQUFBQTZWYlkrU1M5V3ZDQi9IcmxKT09CN1JrNUdUOWkzMjl4S1ROQndmL05FUmtSUllRMnI0QitBYy9ZT1IzbTBXTEUiLCJhbXIiOlsicHdkIiwibWZhIl0sImFwcGlkIjoiZDM1OTBlZDYtNTJiMy00MTAyLWFlZmYtYWFkMjI5MmFiMDFjIiwiYXBwaWRhY3IiOiIwIiwiZV9leHAiOjI2MjgwMCwiZW5mcG9saWRzIjpbXSwiZmFtaWx5X25hbWUiOiJUcmFuIiwiZ2l2ZW5fbmFtZSI6IlZ1IiwiaXBhZGRyIjoiNDIuMTEzLjE4OC4yNiIsIm5hbWUiOiJUcmFuIFR1YW4gVnUgKExhemFkYSBHcm91cCkiLCJvaWQiOiI1NDE3MmYyZS1hODI4LTRmNTAtYTc3Zi1kMjliNDU4NWRiZmIiLCJvbnByZW1fc2lkIjoiUy0xLTUtMjEtMjI5OTUxNTQxMi03NDU3MzgwMzUtMzQxNzM0Njg4Ni0xNzExMiIsInB1aWQiOiIxMDAzN0ZGRTk3NzlBNEVBIiwic2NwIjoiQ2FsZW5kYXJzLlJlYWRXcml0ZSBDb250YWN0cy5SZWFkV3JpdGUgRmlsZXMuUmVhZFdyaXRlLkFsbCBHcm91cC5SZWFkV3JpdGUuQWxsIE1haWwuUmVhZFdyaXRlIE1haWwuU2VuZCBQcml2aWxlZ2UuRUxUIFNpZ25hbHMuUmVhZCBTaWduYWxzLlJlYWRXcml0ZSBUYWdzLlJlYWRXcml0ZSB1c2VyX2ltcGVyc29uYXRpb24iLCJzdWIiOiJwak1iOTNGemZ2bHhjZzFQazhiOVBQbTZXMm51b3VlMVNqN2VZT0JCMmtZIiwidGlkIjoiMzYzYTIzNTQtZjc3MC00YzZlLTliZWQtYTVmODJmMTNkOTA5IiwidW5pcXVlX25hbWUiOiJ2dS50cmFudHVhbkBsYXphZGEuY29tIiwidXBuIjoidnUudHJhbnR1YW5AbGF6YWRhLmNvbSIsInZlciI6IjEuMCJ9.j-TN1I9RsBHVaMRL39Hpuo0BVmrAFwiy_EaQf6caYzSLSmv_Qy3DMI2Yv7PPIhTaxmqjHDCxpo63iaOIMpdna5mTZrwkQsYqfGsfNvuGWUCuQ9Br8ZvHue-pC7woc2a2Z7RBjOMNMSnzur9-cvODaG7JhOvQAZAhJaAKMhTc6by_g3qUneCvRAS6RET3HjAKotjaQ336_1RivRdatUneNgWn3KlmxcCszBWF-ZXzr8x6Azv7Zm0JDaG_Zjrq8HACBe3OgSizHX3S00DEVg2aFozrhD-eFsUxLHFmXnjfWDeOBtLkyroGEap08Lr7ATIARtXEwdWBSzi1MeViMZSeHg
+X-EWS-TargetVersion: 2.6
+Client-Request-Id: {281E7B77-0305-4430-870F-EC752F796BCD}
+Content-Type: text/xml; charset=utf-8
+User-Agent: MacOutlook/15.32.0.170309 (Intelx64 Mac OS X Version 10.12.5 (Build 16F73))
+Content-Length: 646
+Host: outlook.office365.com
+</requestHeader>
+  <responseData class="java.lang.String">&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&lt;s:Envelope xmlns:s=&quot;http://schemas.xmlsoap.org/soap/envelope/&quot;&gt;&lt;s:Body&gt;&lt;s:Fault&gt;&lt;faultcode xmlns:a=&quot;http://schemas.microsoft.com/exchange/services/2006/types&quot;&gt;a:ErrorAccessDenied&lt;/faultcode&gt;&lt;faultstring xml:lang=&quot;en-US&quot;&gt;The caller has not assigned any of the RBAC roles requested in the management role header.&lt;/faultstring&gt;&lt;detail&gt;&lt;e:ResponseCode xmlns:e=&quot;http://schemas.microsoft.com/exchange/services/2006/errors&quot;&gt;ErrorAccessDenied&lt;/e:ResponseCode&gt;&lt;e:Message xmlns:e=&quot;http://schemas.microsoft.com/exchange/services/2006/errors&quot;&gt;The caller has not assigned any of the RBAC roles requested in the management role header.&lt;/e:Message&gt;&lt;/detail&gt;&lt;/s:Fault&gt;&lt;/s:Body&gt;&lt;/s:Envelope&gt;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;soap:Envelope xmlns:soap=&quot;http://schemas.xmlsoap.org/soap/envelope/&quot; xmlns:t=&quot;http://schemas.microsoft.com/exchange/services/2006/types&quot; xmlns:m=&quot;http://schemas.microsoft.com/exchange/services/2006/messages&quot;&gt;&lt;soap:Header&gt;&lt;t:RequestServerVersion Version=&quot;Exchange2013&quot; /&gt;&lt;t:MailboxCulture&gt;en-US&lt;/t:MailboxCulture&gt;&lt;t:TimeZoneContext&gt;&lt;t:TimeZoneDefinition Id=&quot;Tomsk Standard Time&quot;/&gt;&lt;/t:TimeZoneContext&gt;&lt;/soap:Header&gt;&lt;soap:Body&gt;&lt;m:GetAppMarketplaceUrl&gt;&lt;m:ApiVersionSupported&gt;1.3&lt;/m:ApiVersionSupported&gt;&lt;m:SchemaVersionSupported&gt;1.1&lt;/m:SchemaVersionSupported&gt;&lt;/m:GetAppMarketplaceUrl&gt;&lt;/soap:Body&gt;&lt;/soap:Envelope&gt;</queryString>
+  <java.net.URL>https://outlook.office365.com/EWS/Exchange.asmx</java.net.URL>
+</httpSample>
+
+</testResults>

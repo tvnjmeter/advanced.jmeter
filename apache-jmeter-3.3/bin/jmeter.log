@@ -1,0 +1,52 @@
+2017-10-21 21:19:26,418 INFO o.a.j.u.JMeterUtils: Setting Locale to en_US
+2017-10-21 21:19:26,446 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2017-10-21 21:19:26,450 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2017-10-21 21:19:26,464 INFO o.a.j.JMeter: Copyright (c) 1998-2017 The Apache Software Foundation
+2017-10-21 21:19:26,464 INFO o.a.j.JMeter: Version 3.3 r1808647
+2017-10-21 21:19:26,464 INFO o.a.j.JMeter: java.version=1.8.0_121
+2017-10-21 21:19:26,464 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2017-10-21 21:19:26,464 INFO o.a.j.JMeter: os.name=Mac OS X
+2017-10-21 21:19:26,465 INFO o.a.j.JMeter: os.arch=x86_64
+2017-10-21 21:19:26,465 INFO o.a.j.JMeter: os.version=10.12.5
+2017-10-21 21:19:26,465 INFO o.a.j.JMeter: file.encoding=UTF-8
+2017-10-21 21:19:26,465 INFO o.a.j.JMeter: Max memory     =1908932608
+2017-10-21 21:19:26,465 INFO o.a.j.JMeter: Available Processors =4
+2017-10-21 21:19:26,471 INFO o.a.j.JMeter: Default Locale=English (United States)
+2017-10-21 21:19:26,471 INFO o.a.j.JMeter: JMeter  Locale=English (United States)
+2017-10-21 21:19:26,471 INFO o.a.j.JMeter: JMeterHome=/Users/vu.trantuan/Documents/DB/Dropbox/my-work/tools/JMeter/apache-jmeter-3.3
+2017-10-21 21:19:26,471 INFO o.a.j.JMeter: user.dir  =/Users/vu.trantuan/Documents/DB/Dropbox/my-work/tools/JMeter/apache-jmeter-3.3/bin
+2017-10-21 21:19:26,472 INFO o.a.j.JMeter: PWD       =/Users/vu.trantuan/Documents/DB/Dropbox/my-work/tools/JMeter/apache-jmeter-3.3/bin
+2017-10-21 21:19:26,480 INFO o.a.j.JMeter: IP: 192.168.1.80 Name: LAZ-VN-L-M-1189 FullName: laz-vn-l-m-1189
+2017-10-21 21:19:28,649 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: com.apple.laf.AquaLookAndFeel [Mac OS X, System]
+2017-10-21 21:19:28,657 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2017-10-21 21:19:29,960 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2017-10-21 21:19:29,960 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2017-10-21 21:19:32,600 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.assertions.BSFAssertion
+2017-10-21 21:19:33,283 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.extractor.BSFPostProcessor
+2017-10-21 21:19:33,334 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.modifiers.BSFPreProcessor
+2017-10-21 21:19:33,377 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2017-10-21 21:19:33,378 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2017-10-21 21:19:33,378 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2017-10-21 21:19:33,378 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2017-10-21 21:19:33,378 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2017-10-21 21:19:33,378 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2017-10-21 21:19:33,965 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2017-10-21 21:19:33,966 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file /Users/vu.trantuan/Documents/DB/Dropbox/my-work/tools/JMeter/apache-jmeter-3.3/bin/proxyserver.jks
+2017-10-21 21:19:34,184 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.java.sampler.BSFSampler
+2017-10-21 21:19:34,248 INFO o.a.j.s.FileServer: Default base='/Users/vu.trantuan/Documents/DB/Dropbox/my-work/tools/JMeter/apache-jmeter-3.3/bin'
+2017-10-21 21:19:34,389 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.mongodb.config.MongoSourceElement
+2017-10-21 21:19:34,390 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler
+2017-10-21 21:19:34,564 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.timers.BSFTimer
+2017-10-21 21:19:34,620 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.visualizers.BSFListener
+2017-10-21 21:19:34,849 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2017-10-21 21:19:34,850 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2017-10-21 21:19:34,850 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2017-10-21 21:19:34,850 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2017-10-21 21:19:39,444 INFO o.j.r.PluginManager: Plugins Status: [jpgc-functions=2.0, jpgc-dummy=0.2, jpgc-json=2.6, jpgc-plugins-manager=0.16, websocket-sampler=1.0.2-SNAPSHOT, jmeter-core=3.3, jmeter-ftp=3.3, jmeter-http=3.3, jmeter-jdbc=3.3, jmeter-jms=3.3, jmeter-junit=3.3, jmeter-java=3.3, jmeter-ldap=3.3, jmeter-mail=3.3, jmeter-mongodb=3.3, jmeter-native=3.3, jmeter-tcp=3.3, jmeter-components=3.3]
+2017-10-21 21:23:12,332 INFO o.a.j.g.a.Load: Loading file: /Users/vu.trantuan/Documents/DB/Dropbox/my-work/tools/JMeter/training/TVN-Training/advance/jmeter/projects/sample_project_a/sample_scenario_1/jmeter.jmx
+2017-10-21 21:23:12,333 INFO o.a.j.s.FileServer: Set new base='/Users/vu.trantuan/Documents/DB/Dropbox/my-work/tools/JMeter/training/TVN-Training/advance/jmeter/projects/sample_project_a/sample_scenario_1'
+2017-10-21 21:23:12,484 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2017-10-21 21:23:12,489 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2017-10-21 21:23:12,491 INFO o.a.j.s.SaveService: Using SaveService properties version 3.2
+2017-10-21 21:23:12,495 INFO o.a.j.s.SaveService: Loading file: /Users/vu.trantuan/Documents/DB/Dropbox/my-work/tools/JMeter/training/TVN-Training/advance/jmeter/projects/sample_project_a/sample_scenario_1/jmeter.jmx
+2017-10-21 21:23:13,170 INFO o.a.j.s.FileServer: Set new base='/Users/vu.trantuan/Documents/DB/Dropbox/my-work/tools/JMeter/training/TVN-Training/advance/jmeter/projects/sample_project_a/sample_scenario_1'
