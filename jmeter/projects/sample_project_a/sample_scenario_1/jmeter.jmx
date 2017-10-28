@@ -206,9 +206,20 @@ vars.putObject(&quot;MAIN_ACTION_RANDOM_TABLE&quot;, randomTable);</stringProp>
                 <stringProp name="scriptLanguage">groovy</stringProp>
                 <stringProp name="parameters"></stringProp>
                 <stringProp name="filename"></stringProp>
-                <stringProp name="cacheKey">95344936-be9f-4828-b669-155c5208aac9</stringProp>
+                <stringProp name="cacheKey">f2461780-97a0-4c7e-b25e-6fe78dd0e57c</stringProp>
                 <stringProp name="script">def randomTable = [
     [&quot;Report&quot;,   	100]
+];
+vars.putObject(&quot;MAIN_ACTION_RANDOM_TABLE&quot;, randomTable);</stringProp>
+              </JSR223Sampler>
+              <hashTree/>
+              <JSR223Sampler guiclass="TestBeanGUI" testclass="JSR223Sampler" testname="PROF - 0010 - EXC - Report1" enabled="true">
+                <stringProp name="scriptLanguage">groovy</stringProp>
+                <stringProp name="parameters"></stringProp>
+                <stringProp name="filename"></stringProp>
+                <stringProp name="cacheKey">95344936-be9f-4828-b669-155c5208aac9</stringProp>
+                <stringProp name="script">def randomTable = [
+    [&quot;Report1&quot;,   	100]
 ];
 vars.putObject(&quot;MAIN_ACTION_RANDOM_TABLE&quot;, randomTable);</stringProp>
               </JSR223Sampler>
@@ -1197,6 +1208,47 @@ vars.put(&quot;SAMPLE_VAR_IP&quot;, 	  org.apache.jmeter.util.JMeterUtils.getLoc
                 <boolProp name="Assertion.assume_success">false</boolProp>
                 <intProp name="Assertion.test_type">16</intProp>
               </ResponseAssertion>
+              <hashTree/>
+            </hashTree>
+          </hashTree>
+          <ThroughputController guiclass="ThroughputControllerGui" testclass="ThroughputController" testname="Report1" enabled="true">
+            <intProp name="ThroughputController.style">1</intProp>
+            <boolProp name="ThroughputController.perThread">false</boolProp>
+            <intProp name="ThroughputController.maxThroughput">1</intProp>
+            <stringProp name="ThroughputController.percentThroughput">${__P(Report,0)}</stringProp>
+          </ThroughputController>
+          <hashTree>
+            <ConstantTimer guiclass="ConstantTimerGui" testclass="ConstantTimer" testname="Constant Timer" enabled="true">
+              <stringProp name="ConstantTimer.delay">${TEST_CONSTANT_TIMER}</stringProp>
+            </ConstantTimer>
+            <hashTree/>
+            <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="REPR - 0010 - Home Page ${SITE_HOST_NAME}" enabled="true">
+              <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" enabled="true">
+                <collectionProp name="Arguments.arguments"/>
+              </elementProp>
+              <stringProp name="HTTPSampler.domain"></stringProp>
+              <stringProp name="HTTPSampler.port"></stringProp>
+              <stringProp name="HTTPSampler.protocol"></stringProp>
+              <stringProp name="HTTPSampler.contentEncoding"></stringProp>
+              <stringProp name="HTTPSampler.path"></stringProp>
+              <stringProp name="HTTPSampler.method">GET</stringProp>
+              <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
+              <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
+              <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
+              <boolProp name="HTTPSampler.DO_MULTIPART_POST">false</boolProp>
+              <stringProp name="HTTPSampler.embedded_url_re"></stringProp>
+              <stringProp name="HTTPSampler.connect_timeout"></stringProp>
+              <stringProp name="HTTPSampler.response_timeout"></stringProp>
+            </HTTPSamplerProxy>
+            <hashTree>
+              <RegexExtractor guiclass="RegexExtractorGui" testclass="RegexExtractor" testname="Regular Expression Extractor" enabled="true">
+                <stringProp name="RegexExtractor.useHeaders">false</stringProp>
+                <stringProp name="RegexExtractor.refname">JENKINS_CRUMB</stringProp>
+                <stringProp name="RegexExtractor.regex">&quot;Jenkins-Crumb&quot;, &quot;(.+?)&quot;</stringProp>
+                <stringProp name="RegexExtractor.template">$1$</stringProp>
+                <stringProp name="RegexExtractor.default">NOT_FOUND</stringProp>
+                <stringProp name="RegexExtractor.match_number">1</stringProp>
+              </RegexExtractor>
               <hashTree/>
             </hashTree>
           </hashTree>
