@@ -206,7 +206,7 @@ vars.putObject(&quot;MAIN_ACTION_RANDOM_TABLE&quot;, randomTable);</stringProp>
                 <stringProp name="scriptLanguage">groovy</stringProp>
                 <stringProp name="parameters"></stringProp>
                 <stringProp name="filename"></stringProp>
-                <stringProp name="cacheKey">f2461780-97a0-4c7e-b25e-6fe78dd0e57c</stringProp>
+                <stringProp name="cacheKey">59e42f11-3b1e-4871-914b-72e19233f531</stringProp>
                 <stringProp name="script">def randomTable = [
     [&quot;Report&quot;,   	100]
 ];
@@ -217,7 +217,7 @@ vars.putObject(&quot;MAIN_ACTION_RANDOM_TABLE&quot;, randomTable);</stringProp>
                 <stringProp name="scriptLanguage">groovy</stringProp>
                 <stringProp name="parameters"></stringProp>
                 <stringProp name="filename"></stringProp>
-                <stringProp name="cacheKey">95344936-be9f-4828-b669-155c5208aac9</stringProp>
+                <stringProp name="cacheKey">2927bbf5-dfea-4ccd-952d-31b4a7fe4752</stringProp>
                 <stringProp name="script">def randomTable = [
     [&quot;Report1&quot;,   	100]
 ];
