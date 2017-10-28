@@ -19,7 +19,7 @@
           </elementProp>
           <elementProp name="LOOPS" elementType="Argument">
             <stringProp name="Argument.name">LOOPS</stringProp>
-            <stringProp name="Argument.value">${__P(LOOPS, 1)}</stringProp>
+            <stringProp name="Argument.value">${__P(LOOPS, -1)}</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
           <elementProp name="DURATION" elementType="Argument">
@@ -46,7 +46,7 @@
         <collectionProp name="Arguments.arguments">
           <elementProp name="TEST_PROFILE" elementType="Argument">
             <stringProp name="Argument.name">TEST_PROFILE</stringProp>
-            <stringProp name="Argument.value">${__P(TEST_PROFILE, Report)}</stringProp>
+            <stringProp name="Argument.value">${__P(TEST_PROFILE, Report1)}</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
           <elementProp name="SITE_HOST_NAME" elementType="Argument">
@@ -1215,7 +1215,7 @@ vars.put(&quot;SAMPLE_VAR_IP&quot;, 	  org.apache.jmeter.util.JMeterUtils.getLoc
             <intProp name="ThroughputController.style">1</intProp>
             <boolProp name="ThroughputController.perThread">false</boolProp>
             <intProp name="ThroughputController.maxThroughput">1</intProp>
-            <stringProp name="ThroughputController.percentThroughput">${__P(Report,0)}</stringProp>
+            <stringProp name="ThroughputController.percentThroughput">${__P(Report1,0)}</stringProp>
           </ThroughputController>
           <hashTree>
             <ConstantTimer guiclass="ConstantTimerGui" testclass="ConstantTimer" testname="Constant Timer" enabled="true">
